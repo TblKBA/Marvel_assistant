@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+            android:id="@+id/action_search"
+            android:icon="@drawable/baseline_search_black_48dp"
+            app:showAsAction="ifRoom|collapseActionView"
+            app:actionViewClass="androidx.appcompat.widget.SearchView"
+            android:title="Поиск"/>
+
+    <item
+            android:id="@+id/action_sort"
+            android:icon="@drawable/baseline_sort_black_48dp"
+            app:showAsAction="ifRoom|collapseActionView"/>
+
+    <item
+            android:id="@+id/heroes"
+            android:title="Герои"/>
+
+    <item
+            android:id="@+id/comics"
+            android:title="Комиксы"/>
+
+    <item
+            android:id="@+id/creators"
+            android:title="Создатели"/>
+
+    <item
+            android:id="@+id/favorites"
+            android:title="Избранное"/>
+
+    <item
+            android:id="@+id/about"
+            android:title="О приложении"/>
+
+    <item
+            android:id="@+id/logout"
+            android:title="Выход"/>
+
+</menu>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Marvel Assistant</string>
+    <string name="character_name">Имя</string>
+    <string name="character_desc">Описание</string>
+    <string name="home_screen">Герои</string>
+    <string name="comics">Комиксы</string>
+    <string name="creators">Создатели</string>
+    <string name="favorites">Избранное</string>
+    <string name="title_reg">Регистрация</string>
+    <string name="title_login">Авторизация</string>
+    <string name="title_about">О приложении</string>
+    <string name="title_admin">Админ панель</string>
+</resources>
